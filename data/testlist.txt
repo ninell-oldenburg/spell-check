@@ -1,0 +1,6 @@
+# this is a comment
+Gesang 5
+der/die/dasjenige 5
+ein(e) 5
+mehr(e,ere) 5
+der,die,das 5
